@@ -1,0 +1,203 @@
+17:20:39.681 [main] INFO  - Home Page > Click on MyAccount > click on Login
+17:20:40.104 [main] INFO  - Enter Email and Password
+17:20:40.300 [main] INFO  - Click on Log in Button
+17:20:40.382 [main] INFO  - Validating MyAccount Page
+17:30:36.245 [main] INFO  - Home Page > Click on MyAccount > click on Login
+17:30:36.605 [main] INFO  - Enter Email and Password
+17:30:36.789 [main] INFO  - Click on Log in Button
+17:30:36.877 [main] INFO  - Validating MyAccount Page
+15:23:10.431 [main] INFO  - User navigatting to registration page .....
+15:32:37.085 [main] INFO  - User navigatting to registration page .....
+15:39:05.945 [main] INFO  - User navigatting to registration page .....
+15:39:07.087 [main] INFO  - Marking Privacy Policy .....
+15:39:07.148 [main] INFO  - User click on continue button.....
+15:41:38.604 [main] INFO  - User navigatting to registration page .....
+15:41:39.278 [main] INFO  - User Entering the Registration Details .....
+15:41:39.676 [main] INFO  - Marking Privacy Policy .....
+15:41:39.738 [main] INFO  - User click on continue button.....
+15:43:09.613 [main] INFO  - User navigatting to registration page .....
+15:43:10.177 [main] INFO  - User Entering the Registration Details .....
+15:43:10.580 [main] INFO  - Marking Privacy Policy .....
+15:43:10.644 [main] INFO  - User click on continue button.....
+15:45:58.978 [main] INFO  - User navigatting to registration page .....
+15:45:59.512 [main] INFO  - User Entering the Registration Details .....
+15:45:59.945 [main] INFO  - Marking Privacy Policy .....
+15:46:00.013 [main] INFO  - User click on continue button.....
+15:52:31.014 [main] INFO  - User navigatting to registration page .....
+15:52:31.634 [main] INFO  - User Entering the Registration Details .....
+15:52:32.045 [main] INFO  - Marking Privacy Policy .....
+15:52:32.109 [main] INFO  - User click on continue button.....
+16:27:01.459 [main] INFO  - Home Page > Click on MyAccount > click on Login
+16:27:04.053 [main] INFO  - Home Page > Click on MyAccount > click on Login
+16:29:35.234 [main] INFO  - Home Page > Click on MyAccount > click on Login
+16:29:37.610 [main] INFO  - Home Page > Click on MyAccount > click on Login
+16:33:38.630 [main] INFO  - Home Page > Click on MyAccount > click on Login
+16:33:41.278 [main] INFO  - Home Page > Click on MyAccount > click on Login
+16:35:00.916 [main] INFO  - Home Page > Click on MyAccount > click on Login
+16:35:01.335 [main] INFO  - Enter Email and Password
+16:35:01.500 [main] INFO  - Click on Log in Button
+16:35:02.523 [main] INFO  - Validating MyAccount Page
+16:35:14.646 [main] INFO  - Home Page > Click on MyAccount > click on Login
+16:35:15.330 [main] INFO  - Enter Email and Password
+16:35:15.529 [main] INFO  - Click on Log in Button
+16:35:15.601 [main] INFO  - Validating MyAccount Page
+17:20:48.530 [main] INFO  - Home Page > Click on MyAccount > click on Login
+17:20:51.147 [main] INFO  - Home Page > Click on MyAccount > click on Login
+17:20:53.798 [main] INFO  - Home Page > Click on MyAccount > click on Login
+17:20:56.747 [main] INFO  - Home Page > Click on MyAccount > click on Login
+17:20:59.948 [main] INFO  - Home Page > Click on MyAccount > click on Login
+17:30:18.009 [main] INFO  - Home Page > Click on MyAccount > click on Login
+17:30:18.629 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:30:18.631 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:30:18.636 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:30:18.804 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+17:30:18.807 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+17:30:18.808 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+17:30:18.808 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+17:30:18.808 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+17:30:18.809 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+17:30:18.819 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+17:30:18.820 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+17:30:18.828 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+17:30:18.830 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+17:30:18.832 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+17:30:18.833 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+17:30:18.835 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+17:30:18.836 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+17:30:18.917 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+17:30:18.919 [main] TRACE - Resolving type for handle themefd26doctype
+17:30:18.973 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+17:30:18.981 [main] TRACE - Resolving type for handle ctstylesheet4257type
+17:30:18.985 [main] TRACE - Resolving type for handle ctfonts6623type
+17:30:18.987 [main] TRACE - Resolving type for handle ctfont14d8type
+17:30:18.995 [main] TRACE - Resolving type for handle ctfills2c6ftype
+17:30:18.997 [main] TRACE - Resolving type for handle ctfill550ctype
+17:30:18.998 [main] TRACE - Resolving type for handle ctborders0d66type
+17:30:19.001 [main] TRACE - Resolving type for handle ctborderf935type
+17:30:19.003 [main] TRACE - Resolving type for handle ctcellxfs1322type
+17:30:19.007 [main] TRACE - Resolving type for handle ctxf97f7type
+17:30:19.008 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+17:30:19.010 [main] TRACE - Resolving type for handle ctdxfsb26atype
+17:30:19.012 [main] TRACE - Resolving type for handle sstf81fdoctype
+17:30:19.016 [main] TRACE - Resolving type for handle ctsst44f3type
+17:30:19.023 [main] TRACE - Resolving type for handle ctrsta472type
+17:30:19.071 [main] TRACE - Resolving type for handle ctdrawing2748type
+17:30:19.074 [main] TRACE - Resolving type for handle workbookec17doctype
+17:30:19.078 [main] TRACE - Resolving type for handle ctworkbook83c3type
+17:30:19.081 [main] TRACE - Resolving type for handle ctsheets49fdtype
+17:30:19.084 [main] TRACE - Resolving type for handle ctsheet4dbetype
+17:30:19.085 [main] TRACE - Resolving type for handle strelationshipid1e94type
+17:30:19.087 [main] TRACE - Resolving type for handle worksheetf539doctype
+17:30:19.092 [main] TRACE - Resolving type for handle ctworksheet530dtype
+17:30:19.100 [main] TRACE - Resolving type for handle ctcols627ctype
+17:30:19.103 [main] TRACE - Resolving type for handle ctcola95ftype
+17:30:19.113 [main] TRACE - Resolving type for handle ctsheetdata8408type
+17:30:19.115 [main] TRACE - Resolving type for handle ctrowdd39type
+17:30:19.119 [main] TRACE - Resolving type for handle ctcell842btype
+17:30:19.124 [main] TRACE - Resolving type for handle stcellrefe4e0type
+17:30:19.129 [main] TRACE - Resolving type for handle cthyperlinks6416type
+17:30:19.132 [main] TRACE - Resolving type for handle cthyperlink0c85type
+17:30:19.136 [main] TRACE - Resolving type for handle ctdefinednamesce48type
+17:30:19.139 [main] TRACE - Resolving type for handle ctbookviewsb864type
+17:30:19.140 [main] TRACE - Resolving type for handle ctbookviewf677type
+17:30:19.144 [main] TRACE - Resolving type for handle stxstringf179type
+17:30:19.145 [main] TRACE - Resolving type for handle stcelltypebf95type
+17:30:19.150 [main] TRACE - Resolving type for handle ctrelt6464type
+17:30:19.151 [main] TRACE - Resolving type for handle ctrpreltecc2type
+17:30:19.155 [main] TRACE - Resolving type for handle ctfontname2dc3type
+17:30:22.757 [main] INFO  - Home Page > Click on MyAccount > click on Login
+17:30:23.537 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:30:23.540 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:30:23.541 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:30:27.143 [main] INFO  - Home Page > Click on MyAccount > click on Login
+17:30:27.855 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:30:27.859 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:30:27.862 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:30:31.561 [main] INFO  - Home Page > Click on MyAccount > click on Login
+17:30:32.244 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:30:32.248 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:30:32.254 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:30:44.762 [main] INFO  - Home Page > Click on MyAccount > click on Login
+17:30:45.578 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:30:45.581 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:30:45.584 [main] DEBUG - Parsing relationship: /_rels/.rels
+Delete
+17:47:44.836 [main] INFO  - Home Page > Click on MyAccount > click on Login
+18:00:39.495 [main] INFO  - Home Page > Click on MyAccount > click on Login
+18:00:39.913 [main] INFO  - Enter Email and Password
+18:00:40.094 [main] INFO  - Click on Log in Button
+18:00:40.171 [main] INFO  - Validating MyAccount Page
+18:00:43.047 [main] INFO  - User navigatting to registration page .....
+18:00:43.768 [main] INFO  - User Entering the Registration Details .....
+18:00:44.161 [main] INFO  - Marking Privacy Policy .....
+18:00:44.218 [main] INFO  - User click on continue button.....
+11:10:31.075 [main] INFO  - User navigatting to registration page .....
+11:10:31.778 [main] INFO  - Click on continue button without entring the any input fields
+11:17:49.773 [main] INFO  - User navigatting to registration page .....
+11:17:50.435 [main] INFO  - Click on continue button without entring the any input fields
+11:28:14.406 [main] INFO  - User navigatting to registration page .....
+11:28:14.996 [main] INFO  - User Entering the Registration Details .....
+11:28:15.430 [main] INFO  - Marking Privacy Policy .....
+11:28:15.492 [main] INFO  - User click on continue button.....
+11:28:18.229 [main] INFO  - User navigatting to registration page .....
+11:28:18.994 [main] INFO  - Click on continue button without entring the any input fields
+12:42:40.457 [main] INFO  - Home Page > Click on MyAccount > click on Login
+12:42:52.052 [main] INFO  - Home Page > Click on MyAccount > click on Login
+13:58:37.586 [main] INFO  - Home Page > Click on MyAccount > click on Login
+14:35:47.440 [main] INFO  - Home Page > Click on MyAccount > click on Login
+14:35:47.876 [main] INFO  - Clicking on Register email link .....................
+14:35:48.193 [main] INFO  - The user entering register email in the input
+14:35:48.292 [main] INFO  - ***** Clicking on Continue Button ***********
+14:35:48.377 [main] INFO  -  Validating sucess messgae ...............
+14:39:57.656 [main] INFO  - Home Page > Click on MyAccount > click on Login
+14:39:58.037 [main] INFO  - Clicking on Register email link .....................
+14:39:58.360 [main] INFO  - The user entering register email in the input
+14:39:58.470 [main] INFO  - ***** Clicking on Continue Button ***********
+14:39:58.561 [main] INFO  -  Validating sucess messgae ...............
+14:52:52.124 [main] INFO  - Home Page > Click on MyAccount > click on Login
+14:52:52.524 [main] INFO  - Clicking on Register email link .....................
+14:52:52.852 [main] INFO  - The user entering register email in the input
+14:52:52.967 [main] INFO  - ***** Clicking on Continue Button ***********
+14:52:53.051 [main] INFO  -  Validating Alert messgae ...............
+14:52:56.471 [main] INFO  - Home Page > Click on MyAccount > click on Login
+14:52:57.150 [main] INFO  - Clicking on Register email link .....................
+14:52:57.490 [main] INFO  - ***** Clicking on Continue Button ***********
+14:54:40.578 [main] INFO  - Home Page > Click on MyAccount > click on Login
+14:54:40.984 [main] INFO  - Clicking on Register email link .....................
+14:54:41.260 [main] INFO  - The user entering register email in the input
+14:54:41.379 [main] INFO  - ***** Clicking on Continue Button ***********
+14:54:41.462 [main] INFO  -  Validating Alert messgae ...............
+14:54:45.073 [main] INFO  - Home Page > Click on MyAccount > click on Login
+14:54:45.759 [main] INFO  - Clicking on Register email link .....................
+14:54:46.112 [main] INFO  - ***** Clicking on Continue Button ***********
+15:02:37.237 [main] INFO  - Home Page > Click on MyAccount > click on Login
+15:02:37.645 [main] INFO  - Clicking on Register email link .....................
+15:02:37.960 [main] INFO  - The user entering register email in the input
+15:02:38.074 [main] INFO  - ***** Clicking on Continue Button ***********
+15:02:38.163 [main] INFO  -  Validating Alert messgae ...............
+15:02:41.639 [main] INFO  - Home Page > Click on MyAccount > click on Login
+15:02:42.360 [main] INFO  - Clicking on Register email link .....................
+15:02:42.745 [main] INFO  - ***** Clicking on Continue Button ***********
+15:12:36.051 [main] INFO  - Home Page > Click on MyAccount > click on Login
+15:12:36.490 [main] INFO  - Clicking on Register email link .....................
+15:12:36.800 [main] INFO  - The user entering register email in the input
+15:12:36.920 [main] INFO  - ***** Clicking on Continue Button ***********
+15:12:37.015 [main] INFO  -  Validating Alert messgae ...............
+15:13:15.159 [main] INFO  - Home Page > Click on MyAccount > click on Login
+15:13:15.580 [main] INFO  - Clicking on Register email link .....................
+15:13:15.969 [main] INFO  - The user entering register email in the input
+15:13:16.084 [main] INFO  - ***** Clicking on Continue Button ***********
+15:13:17.611 [main] INFO  -  Validating Alert messgae ...............
+15:13:19.780 [main] INFO  - Home Page > Click on MyAccount > click on Login
+15:13:20.336 [main] INFO  - Clicking on Register email link .....................
+15:13:20.671 [main] INFO  - ***** Clicking on Continue Button ***********
+15:13:21.287 [main] INFO  -  Validating Alert  messgae ...............
+15:18:37.055 [main] INFO  - Home Page > Click on MyAccount > click on Login
+15:18:37.460 [main] INFO  - Clicking on Register email link .....................
+15:18:37.733 [main] INFO  - The user entering register email in the input
+15:18:37.879 [main] INFO  - ***** Clicking on Continue Button ***********
+15:18:39.381 [main] INFO  -  Validating Alert messgae ...............
+15:18:41.640 [main] INFO  - Home Page > Click on MyAccount > click on Login
+15:18:42.387 [main] INFO  - Clicking on Register email link .....................
+15:18:42.693 [main] INFO  - ***** Clicking on Continue Button ***********
+15:18:43.283 [main] INFO  -  Validating Alert  messgae ...............
