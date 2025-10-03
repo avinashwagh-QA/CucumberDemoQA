@@ -23,6 +23,18 @@ public class HomePage extends BasePage
 	@FindBy(xpath = "//a[normalize-space()='Register']")
 	WebElement lnkRegistration;
 	
+	//Link to home page QAfox link
+	@FindBy(xpath= "//a[normalize-space()='Qafox.com']")
+	WebElement lnkHomepage;
+	
+	@FindBy(xpath="//input[@placeholder='Search']")
+	WebElement inputSearch;
+	
+	@FindBy(xpath="//button[@class='btn btn-default btn-lg']" )
+	WebElement btnSearch;
+	
+	
+	
 	
 	// Action Method
 	public void clickOnMyacc()
@@ -42,4 +54,20 @@ public class HomePage extends BasePage
 	}
 	
 
+	public void searchProduct(String productName)
+	{
+		inputSearch.sendKeys(productName);	
+	}
+	
+	public void clickOnSearch()
+	{
+		btnSearch.click();
+	}
+	
+	public void lnkToHomePage()
+	{
+		lnkHomepage.click();
+	}
+	
+	
 }

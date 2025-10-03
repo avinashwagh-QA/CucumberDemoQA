@@ -12,8 +12,9 @@ import io.cucumber.junit.CucumberOptions;
 										//features= {".//Features/login.feature"},
 										//features= {".//Features/Registration.feature"},
 										//features= {".//Features/ForgotPassword.feature"},
+										features= {".//Features/SearchProduct.feature"},
 										
-										features= {".//Features/LoginDDTExcel.feature"},
+										//features= {".//Features/LoginDDTExcel.feature"},
 										//features= {".//Features/Login.feature",".//Features/Registration.feature"},
 										//features= {"@target/rerun.txt"},
 										
@@ -35,10 +36,7 @@ import io.cucumber.junit.CucumberOptions;
 										//tags="@sanity or @regression" //Scenarios tagged with either @sanity or @regression
 										//tags="@sc1" //Scenario with tag sc
 										)
-		                            
-
-
-
+		                           
 
 public class testRun 
 {
