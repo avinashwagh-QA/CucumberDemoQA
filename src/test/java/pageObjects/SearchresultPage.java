@@ -6,6 +6,7 @@ import java.util.List;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -15,11 +16,11 @@ public class SearchresultPage extends BasePage
 
 {
 
-	public SearchresultPage(WebDriver driver) 
+	public SearchresultPage(WebDriver driver)
 	{
 		super(driver);
-		// TODO Auto-generated constructor stub
-	}
+        PageFactory.initElements(driver, this);
+    }
 	
     // WebElement for the search results page header
 	@FindBy(xpath="//div[@id='content']//h1")
@@ -91,5 +92,33 @@ public class SearchresultPage extends BasePage
     {
         return noProductMessage.getText();
     }
-    
+
+    /**
+     * Select a product from the search results by its name
+     *
+     * @param productName The name of the product to select
+     * @return a ProductPage instance after selecting the product
+     */
+
+    public ProductPage selectProduct(String productName) {
+        try {
+            WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+
+            wait.until(ExpectedConditions.visibilityOfAllElements(searchProducts)); // Wait for product list to be visible
+
+            for (WebElement product : searchProducts) {
+                if (product.getAttribute("title").equals(productName)) {
+                    wait.until(ExpectedConditions.elementToBeClickable(product));
+                    product.click();
+                    return new ProductPage(driver);
+                }
+            }
+            System.out.println("Product not found " + productName);
+        } catch (Exception e) {
+            throw new RuntimeException(e);
+        }
+
+        return null;
+
+    }
 }

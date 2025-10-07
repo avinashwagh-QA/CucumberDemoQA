@@ -24,7 +24,7 @@ public class RegistrationSteps
 	     @Given("The user navigates to registration page")
 	     public void the_user_navigates_to_registration_page() 
 	     {
-	    	 BaseClass.getLogger().info("User navigatting to registration page .....");
+	    	 BaseClass.getLogger().info("User navigating to registration page .....");
 	    	 
 	    	   hp = new HomePage(BaseClass.getDriver());
 	   	    
@@ -41,7 +41,7 @@ public class RegistrationSteps
 	    	 BaseClass.getLogger().info("User Entering the Registration Details .....");
 
 	 		regpage=new AccountRegistration(BaseClass.getDriver());
-	 		regpage.setFristName(dataMap.get("firstName"));
+	 		regpage.setTxtFirstName(dataMap.get("firstName"));
 	 		regpage.setLastName(dataMap.get("lastName"));
 	 		regpage.setEmail(BaseClass.randomAlphaNumeric()+"@gmail.com");
 	 		regpage.setTelephone(dataMap.get("telephone"));

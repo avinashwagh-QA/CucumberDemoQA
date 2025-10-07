@@ -27,8 +27,8 @@ public class SearchProductSteps
 	    hp.searchProduct(string);
 	}
 	
-	@When("Click on searh button")
-	public void click_on_searh_button() 
+	@When("Click on search button")
+	public void click_on_search_button()
 	{
 	    hp.clickOnSearch();
 	}

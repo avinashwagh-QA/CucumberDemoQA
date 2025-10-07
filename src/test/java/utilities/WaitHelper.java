@@ -1,5 +1,6 @@
 package utilities;
 
+import factory.BaseClass;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -20,8 +21,13 @@ public class WaitHelper {
     /* wait until the element visible */
     public WebElement waitForElementToVisible (WebElement element)
     {
-        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(default_Timeout));
-        return wait.until(ExpectedConditions.visibilityOf(element));
+        try {
+            WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(default_Timeout));
+            return wait.until(ExpectedConditions.visibilityOf(element));
+        } catch (Exception e) {
+            BaseClass.getLogger().info("Timeout waiting for element :" + element);
+            return null;
+        }
     }
 
     /* Wait unti the element is clickable */

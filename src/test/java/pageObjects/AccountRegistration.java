@@ -49,8 +49,8 @@ public class AccountRegistration extends BasePage
 	@FindBy(xpath="//div[@class='text-danger']")
 	List < WebElement> errorMessages;
 	
-	//Action method for each elements 
-	public void setFristName(String fname)
+	//Action method for each element
+	public void setTxtFirstName(String fname)
 	{
 		txtFirstName.sendKeys(fname);;
 	}

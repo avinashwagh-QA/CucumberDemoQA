@@ -10,3 +10,42 @@
 16:09:28.386 [main] INFO  - Debug actual text of header ......Search - iMac
 16:30:50.628 [main] INFO  - Debug actual text of header ......Search - iMac
 16:30:54.697 [main] INFO  - Debug actual text of header ......Search - XYZ123
+12:41:25.250 [main] INFO  - Home Page > Click on MyAccount > click on Login
+12:41:25.922 [main] INFO  - Enter Email and Password
+12:41:26.288 [main] INFO  - Click on Log in Button
+12:41:28.378 [main] INFO  - Validating MyAccount Page
+12:45:55.103 [main] INFO  - Debug actual text of header ......Search - iMac
+12:46:07.142 [main] INFO  - Debug actual text of header ......Search - XYZ123
+22:43:38.084 [main] INFO  - Debug actual text of header ......Search - MacBook
+22:43:38.272 [main] INFO  - Selecting Product from Search result cart page
+22:43:38.272 [main] INFO  - Selecting Product from Search result cart page
+22:43:41.999 [main] INFO  - Set quantity to 2
+22:43:42.122 [main] INFO  - Product added to cart
+22:43:42.629 [main] INFO  - Success message verified and Product added to cart.....
+13:28:05.542 [main] INFO  - Debug actual text of header ......Search - MacBook
+13:28:05.626 [main] INFO  - Selecting Product from Search result cart page
+13:28:05.628 [main] INFO  - Selecting Product from Search result cart page
+13:28:07.076 [main] INFO  - Set quantity to 2
+13:28:07.150 [main] INFO  - Product added to cart
+16:34:37.042 [main] INFO  - Debug actual text of header ......Search - MacBook
+16:34:37.202 [main] INFO  - Selecting Product from Search result cart page
+16:34:37.202 [main] INFO  - Selecting Product from Search result cart page
+16:34:39.452 [main] INFO  - Set quantity to 2
+16:34:39.657 [main] INFO  - Product added to cart
+16:34:39.950 [main] INFO  - Success message verified and Product added to cart.....
+06:48:06.391 [main] INFO  - Debug actual text of header ......Search - MacBook
+06:48:06.530 [main] INFO  - Selecting Product from Search result cart page
+06:48:06.530 [main] INFO  - Selecting Product from Search result cart page
+06:48:08.891 [main] INFO  - Set quantity to 2
+06:48:09.171 [main] INFO  - Product added to cart
+06:49:52.650 [main] INFO  - Debug actual text of header ......Search - MacBook
+06:49:52.782 [main] INFO  - Selecting Product from Search result cart page
+06:49:52.782 [main] INFO  - Selecting Product from Search result cart page
+06:49:54.962 [main] INFO  - Set quantity to 2
+06:49:55.136 [main] INFO  - Product added to cart
+07:12:56.479 [main] INFO  - Debug actual text of header ......Search - MacBook
+07:12:56.666 [main] INFO  - Selecting Product from Search result cart page
+07:12:56.666 [main] INFO  - Selecting Product from Search result cart page
+07:12:58.605 [main] INFO  - Set quantity to 2
+07:12:58.754 [main] INFO  - Product added to cart
+07:12:59.050 [main] INFO  - Success message verified and Product added to cart.....
